@@ -26,6 +26,6 @@ Contributions to this project are currently not open as it is a personal project
 
 ## Contact Information
 
-If you have any questions or feedback regarding this project, you can reach out to Omkar Abhishek Jha via email at [jenishkr.gupta@gmail.com](mailto:jenishkr.gupta@gmail.com).
+If you have any questions or feedback regarding this project, you can reach out to Jenish Kumar via email at [jenishkr.gupta@gmail.com](mailto:jenishkr.gupta@gmail.com).
 
 Thank you for using the stopwatch and timer!
