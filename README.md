@@ -17,6 +17,13 @@ This project is an implementation of a Responsive music player using HTML, CSS &
 - 
 
 ## File Structure
+
+The project consists of the following files:
+
+1. `index.html`: The main HTML file that contains the structure of the unit converter.
+2. `style.css`: The CSS file that includes the styles for the user interface.
+3. `main.js`: The JavaScript file that implements the conversion logic and user interaction.
+
 ## Usage
 
 
