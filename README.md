@@ -18,7 +18,7 @@ The project consists of the following files:
 
 ## Usage
 
-To use the unit converter, follow these steps:
+To use the Responsive_Music_Player, follow these steps:
 
 1. Download or clone the project repository.
 2. Open the `index.html` file in a web browser.
