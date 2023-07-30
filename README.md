@@ -2,19 +2,11 @@
 
 This project is an implementation of a Responsive music player using HTML, CSS & JavaScript. It has been developed by Jenish Kumar, a student of Techno International New Town, studying Information Technology.
 
-## Features
-
-
-
-
-
-
 ## Technologies Used
 
 - HTML: Used for creating the structure and layout of the music player.
 - CSS: Used for styling the user interface and making it visually appealing.
 - JavaScript: Used for implementing the songs.
-- 
 
 ## File Structure
 
@@ -26,6 +18,12 @@ The project consists of the following files:
 
 ## Usage
 
+To use the unit converter, follow these steps:
+
+1. Download or clone the project repository.
+2. Open the `index.html` file in a web browser.
+3. The page will display a container that contains different songs.
+4. listen to your favorite one.
 
 ## Contributions
 
